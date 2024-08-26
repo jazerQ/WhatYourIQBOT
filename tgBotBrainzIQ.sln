@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tgBotBrainzIQ", "tgBotBrainzIQ\tgBotBrainzIQ.csproj", "{309405F5-CB90-4F92-BDCC-FF7585A8BE3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{309405F5-CB90-4F92-BDCC-FF7585A8BE3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{309405F5-CB90-4F92-BDCC-FF7585A8BE3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{309405F5-CB90-4F92-BDCC-FF7585A8BE3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{309405F5-CB90-4F92-BDCC-FF7585A8BE3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E33D9BD5-8DA0-43B9-8089-3768F0F4B36E}
+	EndGlobalSection
+EndGlobal
